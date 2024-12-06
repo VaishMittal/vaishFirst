@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    /* background-color: rgb(161, 155, 155); */
+}
+.container{
+    padding: 20px;
+    border: 3px solid brown;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    border: 2px solid rgb(171, 227, 255);
+    margin: 5rem 15rem;
+    padding:7rem ;
+    background-color: rgb(215, 246, 255);
+}
+.box2{
+    background-color: rgb(212, 212, 212);
+   border: 2px solid rgb(159, 159, 159);
+   height: 20rem;
+
+}

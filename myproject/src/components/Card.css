@@ -1,0 +1,15 @@
+
+.mycard{
+    border: 2px solid black;
+    /* height: 10rem; */
+    width: 20rem;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.mycard img{
+    height: 15rem;
+    width: 15rem;
+}
